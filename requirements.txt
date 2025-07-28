@@ -1,0 +1,7 @@
+requests
+sentence-transformers
+chromadb
+tqdm
+neo4j
+beautifulsoup4
+playwright
